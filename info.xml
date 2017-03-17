@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <extension key="org.civicoop.relationship2summary" type="module">
   <file>relationship2summary</file>
-  <name>Display relationships in the contact summary</name>
+  <name>Displays relationships in the contact summary</name>
   <description>Shows a conigured set of relationships on the contact summary screen</description>
   <license>AGPL-3.0</license>
   <maintainer>
@@ -14,8 +14,8 @@
     <url desc="Support">http://civicoop.org</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
-  <releaseDate>2016-11-19</releaseDate>
-  <version>1.0</version>
+  <releaseDate>2017-03-17</releaseDate>
+  <version>1.1</version>
   <develStage>stable</develStage>
   <compatibility>
     <ver>4.7</ver>

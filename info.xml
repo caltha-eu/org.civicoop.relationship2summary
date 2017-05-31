@@ -9,8 +9,8 @@
     <email>jaap@edeveloper.nl</email>
   </maintainer>
   <urls>
-    <url desc="Main Extension Page">https://github.com/org.civicoop.relationship2summary</url>
-    <url desc="Documentation">https://github.com/org.civicoop.relationship2summary/README.md</url>
+    <url desc="Main Extension Page">https://github.com/CiviCoop/org.civicoop.relationship2summary</url>
+    <url desc="Documentation">https://github.com/CiviCoop/org.civicoop.relationship2summary/README.md</url>
     <url desc="Support">http://civicoop.org</url>
     <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
   </urls>
